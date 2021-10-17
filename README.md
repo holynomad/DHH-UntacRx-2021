@@ -32,3 +32,10 @@
 ## 산출물(aka. MVP)
 
   - <img width="749" alt="스크린샷 2021-10-17 오후 9 38 38" src="https://user-images.githubusercontent.com/43846264/137627638-e2834297-f8ac-40e8-9cae-293dea07eda1.png">
+
+## lessons learned
+
+  - Peer 피드백 기반 검증된 멤버들로 구성하기
+  - 명확한 R&R 수립
+  - 최종 산출물에 대한 밑그림은 최소한 시작전에 그려놓아야 함
+  - 조금 미리 호흡맞추면 더 좋은 결과(본선이상) 가능하다는 확신
