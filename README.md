@@ -22,14 +22,14 @@
   - <img width="1253" alt="스크린샷 2021-10-17 오후 9 28 57" src="https://user-images.githubusercontent.com/43846264/137627339-0e9f10c0-f0cf-4b7d-a806-7161f8e2e94d.png">
 
 
-## 티켓 (ft. 스프린트 플래닝)
+## 티켓 (ft. 스프린트 플래닝 5 weeks)
 
   - <img width="1440" alt="스크린샷 2021-10-17 오후 9 35 04" src="https://user-images.githubusercontent.com/43846264/137627536-3ed844d8-528a-4f9d-aeb7-1e0510dc6334.png">
   - <img width="1436" alt="스크린샷 2021-10-17 오후 9 35 29" src="https://user-images.githubusercontent.com/43846264/137627554-45d1f96c-06a0-4ed0-bd88-28d78204016e.png">
   - <img width="1278" alt="스크린샷 2021-10-17 오후 9 36 28" src="https://user-images.githubusercontent.com/43846264/137627582-1f116f7e-8ece-48cd-a508-3643d7e67702.png">
 
 
-## 산출물(aka. MVP)
+## 산출물(aka. MVP) : `비대면 전문가 상담기반 건강증진제품 추천/판매 플랫폼 앱`
 
   - <img width="749" alt="스크린샷 2021-10-17 오후 9 38 38" src="https://user-images.githubusercontent.com/43846264/137627638-e2834297-f8ac-40e8-9cae-293dea07eda1.png">
 
