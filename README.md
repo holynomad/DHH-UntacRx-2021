@@ -29,9 +29,10 @@
   - <img width="1278" alt="스크린샷 2021-10-17 오후 9 36 28" src="https://user-images.githubusercontent.com/43846264/137627582-1f116f7e-8ece-48cd-a508-3643d7e67702.png">
 
 
-## 산출물(aka. MVP) : `비대면 전문가 상담기반 건강증진제품 추천/판매 플랫폼 앱`
+## 산출물(aka. MVP) : `비대면 전문가 상담기반 건강증진제품 추천/판매 어플리케이션`
 
   - <img width="749" alt="스크린샷 2021-10-17 오후 9 38 38" src="https://user-images.githubusercontent.com/43846264/137627638-e2834297-f8ac-40e8-9cae-293dea07eda1.png">
+  - [v1.0 데모영상 바로가기](https://drive.google.com/file/d/13yE-gUVHT_SHqWiPnHJawjznuBh7vpoK/view?usp=sharing)
 
 ## lessons learned
 
